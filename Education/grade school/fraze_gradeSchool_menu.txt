@@ -1,0 +1,6 @@
+adjusted ordering now after public library;
+added pre-condition - population of 500 in city;
+added pre-condition - public library built;
+
+* bug * something is overwriting the pre-conditions, once
+	the town hall is plopped, this becomes available

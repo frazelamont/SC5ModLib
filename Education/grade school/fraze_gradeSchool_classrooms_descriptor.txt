@@ -1,0 +1,5 @@
+increased capacity by 50% from 200 to 300;
+increased construction by 50% from 10,000 to 15,000;
+decreased maintenance 25% from 200/hr to 150/hr (50p per student, grade school has 500 students at 300/hr cost);
+
+this file is shared by both the classrooms & top classrooms, one descriptor

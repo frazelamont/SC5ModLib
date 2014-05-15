@@ -1,0 +1,4 @@
+decreased order from 300 to 35 (after grade school classroom top);
+changed parent to grade school;
+changed parent menu to same as other options currently in grade school (i used grade school classrooms for reference);
+regenerated TGI instanceID;

@@ -1,0 +1,3 @@
+decreased maintenance by 50% from 100/hr to 50/hr;
+decreased construction by 50% from 3,000 to 1,500;
+increased passenger count by 50% from 50 to 75;

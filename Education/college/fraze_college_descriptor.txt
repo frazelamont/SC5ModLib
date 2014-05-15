@@ -1,0 +1,5 @@
+increased cost by 50% from 42,000 to 63,000 (midway between grade school & university);
+increased maintenance by 50% from 500/h to 750/h (midway between grade school & university);
+decreased extension ploppable from 4 to 2 (via module 1 in file - increased capacity to counter & added dormitory);
+increased module 4 from 1 to 3, as the dormitory associates here with the sign (weird);
+[ thus i allow 2 extensions, 2 dormitories, though both hold a considererable amount of students & associated costs);

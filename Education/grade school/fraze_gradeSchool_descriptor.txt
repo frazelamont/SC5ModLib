@@ -1,0 +1,18 @@
+increased total jobs by 100% from 25 to 50;
+increased low wealth jobs by 100% from 20 to 40 (displays 24 & 44 though);
+increased medium wealth jobs by 100% from 5 to 10;
+added a single high wealth job;
+increased base student capacity from 150 to 500;
+increased cost by 50% from 16,000 to 24,000 (displays 27,000 - set to 21,000 in file for 24,000 display);
+decreased maintenance from 400/h to 300/h (displays 400 - set to 200 in file for 300 display);
+decreased buslot from 5 to 4 ploppables (4 parking spaces) via module 2 count;
+
+increased classroom/top-classrooms from 4 to 12 ploppables (both grade school classrooms & classrooms top share module1 count, but also so does the added in high school classrooms, hence 4 of each now);
+
+
+*/
+    removed pending guidance
+/*
+Modified pre-conditions to mirror same settings in menu file
+* bug * something is overwriting the pre-condition, once
+	the town hall is plopped, this becomes available

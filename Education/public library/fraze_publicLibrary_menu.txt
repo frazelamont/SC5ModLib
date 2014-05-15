@@ -1,0 +1,8 @@
+adjusted ordering now first in display order;
+
+/*
+    from the descriptor file
+*/
+decreased base student capacity from 200 to 150;
+decreased construction cost from 10,000 to 8,000;
+decreased maintenance from 100/h to 50/h;

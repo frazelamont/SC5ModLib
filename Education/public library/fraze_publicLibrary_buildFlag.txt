@@ -1,0 +1,1 @@
+added a flag to highlight if this has been built, enabling pre-conditions elsewhere

@@ -1,0 +1,3 @@
+increased construction cost from 17,000 to 30,000 (double grade school classrooms);
+decreased capacity from 1,000 to 600 (double grade school classrooms);
+decreased maintenance from 500/hr to 300/hr (double grade school classrooms - 50p/hr per student);

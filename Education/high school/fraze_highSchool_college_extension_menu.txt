@@ -1,0 +1,3 @@
+changed parent menu to same instanceID from other addins (used buslot as base);
+adjusted order to 45 (before gymnasium, after classrooms)
+created new TGI instanceID

@@ -1,0 +1,2 @@
+text to show for custom lookups
+- build flag (Public Library in City)

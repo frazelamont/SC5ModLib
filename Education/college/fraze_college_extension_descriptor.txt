@@ -1,0 +1,2 @@
+increased capacity by 50% from 500 to 750;
+increased construction from 12,000 to 37,500 (keeping 5k per 100 students costing from grade & high schools)

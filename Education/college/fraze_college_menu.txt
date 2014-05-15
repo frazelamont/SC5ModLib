@@ -1,0 +1,9 @@
+adjusted ordering for new layout;
+added precondition - town hall upgraded to city hall in region;
+added precondition - dept of education in the region;
+
+/*
+    from the descriptor file
+*/
+increased cost by 50% from 42,000 to 63,000 (midway between grade school & university);
+increased maintenance by 50% from 500/h to 750/h (midway between grade school & university);

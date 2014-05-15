@@ -1,0 +1,1 @@
+decreased construction cost from 100 to 25, same as grade school flag

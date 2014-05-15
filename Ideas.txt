@@ -1,0 +1,23 @@
+get the extended rollover to show:
+	power
+	garbage
+	water
+in both amounts & by cost (exchange rate x amount)
+---------------------------------------
+add uni research ui to college, and move school of engineering there
+----------------------------------------
+separate out metals hq commerce div building to be separate one, for
+setting/managing the exchange rates (also see if these rates exist
+for the police, health, fire, mass transit) - commerce done in trading
+so the commerce buildings of drilling, mining, electronics can be shifted
+to other functions - mostly cost i'm not wise in the ways of 3d modelling
+---------------------------------------------
+find out from maxis if exchange rate can be 
+attached to uni research, then block it from other uni's in region, so can
+license as patent via exchange rate to other cities in region and they can't
+research it once it has been completed or started.
+----------------------------------------------
+figure out how to create counters for amount of shares held in companies who
+use exchange rate to sell services/produce.  And to see how to sell them, and
+if maxis can advise how to get the game then creating competitors ...like a-train
+but really updated for simcity 2013

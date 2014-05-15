@@ -1,0 +1,5 @@
+changed parent to grade school instanceID (from descriptor);
+
+decreased ordering from 100 to 20 (put after grade school bus but before grade school classrooms);
+
+also generated new TGI instanceID (otherwise the buslot would move from high school to grade school, this way it copies the menu item but reuses the same descriptor from the high school buslot);

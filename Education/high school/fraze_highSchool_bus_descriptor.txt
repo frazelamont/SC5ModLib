@@ -1,0 +1,2 @@
+decreased cost from 10,000 to 3,000 (double grade school bus);
+increased capacity from 80 to 150 (double grade school bus);

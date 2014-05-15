@@ -1,0 +1,1 @@
+lowered construction cost from 200 to 125, in line with new flag cost;

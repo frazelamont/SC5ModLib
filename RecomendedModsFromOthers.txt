@@ -1,0 +1,24 @@
+get these from this website
+
+http://www.simtropolis.com
+
+Mods
+
+Budget-Map
+- shows expense by building
+jHeavyLayer0.0
+- shows upgrade path
+CloserRoadGuides
+- easier building without huge gaps
+Maglev-As-Subway
+- requires cities of tomorrow expansion pack
+Extended-Worker-Data-in-Rollover
+- shows the worker info when building clicked
+Real Population
+- removes the excess, gets you more normal figures
+DramaticLighting
+- makes things look a bit nicer
+Mechalic
+- removes the night dimming
+Regional Subway
+- the maglev as a subway outside of cities (like regional highway)

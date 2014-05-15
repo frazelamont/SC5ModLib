@@ -1,0 +1,1 @@
+reduced construction cost from 100 to 25;
