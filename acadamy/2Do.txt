@@ -1,0 +1,3 @@
+adjust the descripto file
+- remove controlnet requirement
+- see if it can be adjusted to use power, water, garbage etc

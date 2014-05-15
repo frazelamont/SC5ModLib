@@ -1,0 +1,5 @@
+adjust costs of research
+adjust research time, look at worker levels, try to speed up
+adjust number of addins (ploppable)
+adjust costs associated with addins
+adjust order of addins

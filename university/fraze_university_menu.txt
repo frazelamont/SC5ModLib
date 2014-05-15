@@ -1,0 +1,9 @@
+adjusted ordering for new layout;
+lowered unlock student target amount from 1,200 to 1,000
+
+/*
+    from the descriptor file
+*/
+decreased construction cost by 5% from 88,000 to 84,000
+decreased maintenance by 50% from 1,600/h to 800/h (just more than college);
+decreased student capacity from 800 to 500 (uniform across high school, college & university);

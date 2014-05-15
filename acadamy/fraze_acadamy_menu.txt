@@ -1,0 +1,5 @@
+moved the acadamy into education, just after university;
+added precondition - town hall in region;
+added precondition - town hall upgraded to city hall in region;
+added precondition - dept of education in region;
+added precondition - 1,500 students/day in any city in region;
