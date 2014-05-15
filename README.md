@@ -10,12 +10,35 @@ copy the script below into the same folder, from the SimCityUserData\EcoGame
 
 SimCity-Scripts_287520926.package
 
-though they may be needed for other mods, one to check.
+get these from this website
 
-Workaround 01 - without script file above
------------------------------------------
-create new region, save instantly, quit simcity then reload it.  Either browse to the region via 'play' or access the last region you had open via 'resume', my mods only work after doing this for some weird reason
+http://www.simtropolis.com
 
-Workaround 02 - with script file above (10.1 update forces this weirdness)
---------------------------------------
-create new region, save instantly, quit simcity then reload it.  only works when region is set to the resume button
+Mods to get by others
+=====================
+Budget-Map
+- shows expense by building
+
+jHeavyLayer0.0
+- shows upgrade path
+
+CloserRoadGuides
+- easier building without huge gaps
+
+Maglev-As-Subway
+- requires cities of tomorrow expansion pack
+
+Extended-Worker-Data-in-Rollover
+- shows the worker info when building clicked
+
+Real Population
+- removes the excess, gets you more normal figures
+
+DramaticLighting
+- makes things look a bit nicer
+
+Mechalic
+- removes the night dimming
+
+Regional Subway
+- the maglev as a subway outside of cities (like regional highway)
